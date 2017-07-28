@@ -1,1 +1,2 @@
-*.pbxproj -text
+*.swift linguist-language=javascript
+*.java linguist-language=javascript
